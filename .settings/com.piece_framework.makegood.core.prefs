@@ -1,6 +1,0 @@
-eclipse.preferences.version=1
-phpunit_config_file=/gs2-php-sdk-ranking/phpunit.xml
-preload_script=/gs2-php-sdk-ranking/tests/bootstrap.php
-test_file_pattern=
-test_folders=/gs2-php-sdk-ranking/tests
-testing_framework=PHPUnit
